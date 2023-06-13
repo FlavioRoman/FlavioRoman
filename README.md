@@ -1,5 +1,5 @@
 
-<img src="[https://github.com/maneprajakta/Data_Cleaning_With_Python/blob/master/ezgif.com-video-to-gif.gif](https://wallpaperaccess.com/full/647861.jpg)" width="1650" height="250" />
+<img src="https://github.com/maneprajakta/Data_Cleaning_With_Python/blob/master/ezgif.com-video-to-gif.gif](https://wallpaperaccess.com/full/647861.jpg" width="1650" height="250" />
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
