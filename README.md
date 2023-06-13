@@ -27,9 +27,15 @@
 - Learn better ways, concepts and techniques about design, as it is also something I like to do apart from development. 
 
 ## Skills and Tools 🛠️:
-  <img src = "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt = "js" />
-  <img src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt = "java" />
-  <img src = "https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt = "php" />
+ <img src="https://skillicons.dev/icons?i=git,bootstrap,css,sass,discord,figma,github,html,java,php,js,linux,materialui,mysql,nextjs,nodejs,react,vite,tailwind,netlify,replit,vscode&perline=14" />
+ 
+## Contact my 🤝🏻:
+<a href="https://www.linkedin.com/in/flavio-roman-1946201b5/" target="_blank">
+ <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+</a>
+<a href="romanflavio2@gmail.com" target="_blank">
+ <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
+</a>
 
 ## Github STATS :cyclone: !
 
