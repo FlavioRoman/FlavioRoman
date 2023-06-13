@@ -36,6 +36,9 @@
 <a href="mailto:romanflavio2@gmail.com" target="_blank">
  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
 </a>
+<a href="mailto:romanflavio2@gmail.com">
+  <img src="https://camo.githubusercontent.com/fe4f685f3dfccebdc79852e415218057fa8000d2baa8dcb3ae757822e64272ca/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d46726f6e74656e642532304d656e746f722d3546334443343f7374796c653d666f722d7468652d6261646765266c6f676f3d46726f6e74656e644d656e746f72266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e66726f6e74656e646d656e746f722e696f2f70726f66696c652f4d656c76696e416775696c6172" alt="Frontend Mentor" data-canonical-src="https://img.shields.io/badge/-Frontend%20Mentor-5F3DC4?style=for-the-badge&amp;logo=FrontendMentor&amp;logoColor=white&amp;link=https://www.frontendmentor.io/profile/FRG152">
+</a>
 
 ## Github STATS :cyclone: !
 
