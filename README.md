@@ -50,6 +50,8 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FlavioRoman&theme=dracula&repo=static_job_listings)](https://github.com/FlavioRoman/static_job_listings)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FlavioRoman&theme=dracula&repo=qr-code-js)](https://github.com/FlavioRoman/qr-code-js)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FlavioRoman&theme=dracula&repo=fylo_dark_theme)](https://github.com/FlavioRoman/fylo_dark_theme)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FlavioRoman&theme=dracula&repo=est_countries_api_with_color_theme_switcher)](https://github.com/FlavioRoman/est_countries_api_with_color_theme_switcher)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FlavioRoman&theme=dracula&repo=nft_card)](https://github.com/FlavioRoman/nft_card)
 
 ## Open For Oppurtunities :purple_heart: !
 
