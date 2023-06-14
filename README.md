@@ -1,5 +1,5 @@
 
-<img src="https://media.tenor.com/5tq8ILMQ4G0AAAAd/html-css.gif" width="1250" height="500" />
+<!-- <img src="https://media.tenor.com/5tq8ILMQ4G0AAAAd/html-css.gif" width="1250" height="500" /> -->
 
 <h1 align="center">¡Hello!, My Name is Flavio Roman <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
@@ -46,7 +46,7 @@
 <br>
 
 ## Some Repos to Visit :blossom: !
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=maneprajakta&repo=Digit_Recognition_Web_App&show_icons=true&theme=radical)
+![ReadMe Card](https://github.com/FlavioRoman/pricing_toggle)
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=maneprajakta&repo=DSA&show_icons=true&theme=radical)
 
 ## Open For Oppurtunities :purple_heart: !
