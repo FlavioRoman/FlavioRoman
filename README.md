@@ -46,8 +46,7 @@
 <br>
 
 ## Some Repos to Visit :blossom: !
-![ReadMe Card](https://github.com/FlavioRoman/pricing_toggle)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=maneprajakta&repo=DSA&show_icons=true&theme=radical)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FlavioRoman&repo=pricing_toggle)](https://github.com/FlavioRoman/pricing_toggle)
 
 ## Open For Oppurtunities :purple_heart: !
 
