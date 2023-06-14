@@ -46,7 +46,10 @@
 <br>
 
 ## Some Repos to Visit :blossom: !
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FlavioRoman&repo=pricing_toggle)](https://github.com/FlavioRoman/pricing_toggle)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FlavioRoman&theme=dracula&repo=pricing_toggle)](https://github.com/FlavioRoman/pricing_toggle)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FlavioRoman&theme=dracula&repo=static_job_listings)](https://github.com/FlavioRoman/static_job_listings)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FlavioRoman&theme=dracula&repo=qr-code-js)](https://github.com/FlavioRoman/qr-code-js)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FlavioRoman&theme=dracula&repo=fylo_dark_theme)](https://github.com/FlavioRoman/fylo_dark_theme)
 
 ## Open For Oppurtunities :purple_heart: !
 
