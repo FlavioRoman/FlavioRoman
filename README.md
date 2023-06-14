@@ -1,6 +1,3 @@
-
-<!-- <img src="https://media.tenor.com/5tq8ILMQ4G0AAAAd/html-css.gif" width="1250" height="500" /> -->
-
 <h1 align="center">¡Hello!, My Name is Flavio Roman <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
 <p>
