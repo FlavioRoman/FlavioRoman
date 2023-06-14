@@ -42,10 +42,10 @@
 
 ## Github STATS :cyclone: !
 
-![Prajakta's github stats](https://github-readme-stats.vercel.app/api?username=maneprajakta&show_icons=true&theme=radical)
+![Prajakta's github stats](https://github-readme-stats.vercel.app/api?username=FlavioRoman&show_icons=true&theme=dracula)
 <br>
 
-## Some Repos to Visit :blossom: !
+## Some Projects to Visit 🚩: 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FlavioRoman&theme=dracula&repo=pricing_toggle)](https://github.com/FlavioRoman/pricing_toggle)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FlavioRoman&theme=dracula&repo=static_job_listings)](https://github.com/FlavioRoman/static_job_listings)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FlavioRoman&theme=dracula&repo=qr-code-js)](https://github.com/FlavioRoman/qr-code-js)
