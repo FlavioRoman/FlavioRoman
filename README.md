@@ -8,7 +8,7 @@
 
 - 🔭 Currently always improving my way of developing web pages.
 - 🌱 I am currently learning more advanced concepts about some things I already know, but I want to learn more about it.
-- 👯 I am looking for an opportunity to grow in web development and programming.
+- 🏅 I am looking for an opportunity to grow in web development and programming.
 - 💬 Ask me about something you want to now about me.
 - 📫 How to reach me: mail at romanflavio2@gmail.com
 
